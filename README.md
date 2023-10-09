@@ -1,6 +1,11 @@
 # motion-detect
 Raspberry Pi motion detector
 
+
+motion-h264-detect-opencv  ~ 4 FPS
+motion-h264-detect-vector  ~ 29 FPS
+
+
 Build
 -----
 0. Install pre-required packages
