@@ -2,10 +2,9 @@
 Raspberry Pi motion detector
 
 
-motion-h264-detect-opencv  ~ 4 FPS
-
-motion-h264-detect-vector  ~ 29 FPS
-
+Device: Raspberry Pi 2 Model B Rev 1.1
+  motion-h264-detect-opencv  ~ 4 FPS
+  motion-h264-detect-vector  ~ 29 FPS
 
 Build
 -----
