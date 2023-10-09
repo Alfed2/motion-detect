@@ -2,13 +2,22 @@
 Raspberry Pi motion detector
 
 
-Device: Raspberry Pi 2 Model B Rev 1.1
+<b>Device: Raspberry Pi 2 Model B Rev 1.1</b><br/>
+&nbsp;  motion-h264-detect-opencv  ~ 4 FPS <br/>
+&nbsp;  motion-h264-detect-vector  ~ 29 FPS<br/>
 
-  motion-h264-detect-opencv  ~ 4 FPS
-  
-  motion-h264-detect-vector  ~ 29 FPS
+<b>Examples:<br/>
+creates files in the directory(variable "DirSave"):</b> <br/>
+&nbsp;  20231009_142258-f.jpg   - first frame motion detect<br/>
+&nbsp;  20231009_142258-f-small.jpg<br/>
+&nbsp;  20231009_142258-s.jpg   - frame after ~ 1.5sec from the motion detect<br/>
+&nbsp;  20231009_142258-s-small.jpg<br/>
+&nbsp;  20231009_142258.mp4     - Video motion detect<br/>
+<br/>
+Duration of movement is more than ~1.5 sec:<br/>
+&nbsp; running script send.sh, parameter($1): "varable Dirsave"+20231009_142258-s.jpg<br/>
+&nbsp; running script after video file recording is complete, parameter($1): "varable Dirsave"+20231009_142258.mp4<br/>
 
-  
 
 Build
 -----
