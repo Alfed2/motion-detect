@@ -1,5 +1,4 @@
 <b>Raspberry Pi motion detector<br></b>
-original: https://github.com/tasanakorn/rpi-mmal-demo
 
 <b>Device: Raspberry Pi 2 Model B Rev 1.1</b><br/>
 &nbsp;  motion-h264-detect-opencv  ~ max 4 FPS <br/>
