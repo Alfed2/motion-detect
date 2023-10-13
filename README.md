@@ -1,4 +1,5 @@
-<b>Raspberry Pi motion detector<br></b>
+<b>Raspberry Pi motion detector<br/></b>
+main example of working with MMAL -> https://github.com/tasanakorn/rpi-mmal-demo.git<br/>
 
 <b>Device: </b> <br/>
 &nbsp;  Raspberry Pi 2 Model B Rev 1.1<br/>
