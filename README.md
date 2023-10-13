@@ -11,7 +11,7 @@ creates files in the directory(variable "DirSave"):</b> <br/>
 &nbsp;  20231009_142258-f-small.jpg<br/>
 &nbsp;  20231009_142258-s.jpg   - frame after ~ 1.5sec from the motion detect<br/>
 &nbsp;  20231009_142258-s-small.jpg<br/>
-&nbsp;  20231009_142258.mp4     - Video motion detect<br/>
+&nbsp;  20231009_142258.mp4     - Video<br/>
 <br/>
 <b>Start the alert in ~1.5 sec:</b><br/>
 &nbsp; running script(send.sh), parameter($1): "varable Dirsave"+20231009_142258-s.jpg<br/>
