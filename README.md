@@ -10,13 +10,12 @@
 &nbsp;  motion-h264-detect-vector  ~ max 29 FPS<br/>
 &nbsp;  motion-final  ~ 15 FPS<br/>
 
-<b>Examples:</b><br/>
+<b>Examples ( directory - 'images' ) :</b><br/>
 creates files in the directory(variable "DirSave"):<br/>
 &nbsp;  *-f.jpg, *-f-small.jpg   - first frame motion detect<br/>
 &nbsp;  *-s.jpg, *-s-small.jpg   - frame after ~ 1.5sec from the motion detect<br/>
 &nbsp;  *.mp4 - Video<br/>
 &nbsp;  \* -  yyyymmdd_hhmmss<br/>
-example of files in directory - 'images'<br/>
 
 <br/>
 <b>Start the alert in ~1.5 sec:</b><br/>
