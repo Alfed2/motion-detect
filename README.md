@@ -3,7 +3,7 @@
 <b>Device: </b> <br/>
 &nbsp;  Raspberry Pi 2 Model B Rev 1.1<br/>
 &nbsp;  3,5” RPi LCD 480×320<br/>
-<img src="https://github.com/Alfed2/motion-detect/blob/main/images/20231013_205309.jpg" width="300"> 
+<img src="https://github.com/Alfed2/motion-detect/blob/main/images/device.jpg" width="300"> 
 
 <b> FPS </b> <br/>
 &nbsp;  motion-h264-detect-opencv  ~ max 4 FPS <br/>
