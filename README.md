@@ -2,8 +2,8 @@
 main example of working with MMAL -> https://github.com/tasanakorn/rpi-mmal-demo.git<br/>
 
 <b>Device: </b> <br/>
-Raspberry Pi 2 Model B Rev 1.1<br/>
-Raspberry Pi Camera Module<br/>
+&nbsp;  Raspberry Pi 2 Model B Rev 1.1<br/>
+&nbsp;  Raspberry Pi Camera Module<br/>
 &nbsp;  3,5” RPi LCD 480×320<br/>
 <img src="https://github.com/Alfed2/motion-detect/blob/main/images/device.jpg" width="300"> 
 
